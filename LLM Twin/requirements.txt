@@ -1,0 +1,9 @@
+langchain
+sentence-transformers
+qdrant-client
+torch
+datasets
+transformers
+peft
+trl
+openai
